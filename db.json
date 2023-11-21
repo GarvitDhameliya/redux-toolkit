@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Garvit",
+      "author": "Garvit"
+    },
+    {
+      "id": 3,
+      "title": "Ram",
+      "author": "ram"
+    },
+    {
+      "title": "asdsa",
+      "author": "sadas",
+      "id": 4
+    },
+    {
+      "title": "zczxcS",
+      "author": "erewr",
+      "id": 5
+    },
+    {
+      "title": "asd",
+      "author": "dw",
+      "id": 6
+    },
+    {
+      "title": "asdas",
+      "author": "wqqweqwe",
+      "id": 7
+    },
+    {
+      "title": "adasd",
+      "author": "sfsafa",
+      "id": 8
+    },
+    {
+      "title": "aaa",
+      "author": "ssss",
+      "id": 9
+    },
+    {
+      "title": "asdas",
+      "author": "dwqw",
+      "id": 10
+    },
+    {
+      "title": "a`",
+      "author": "e",
+      "id": 11
+    },
+    {
+      "title": "q",
+      "author": "q",
+      "id": 12
+    },
+    {
+      "title": "q",
+      "author": "qqqq",
+      "id": 13
+    },
+    {
+      "title": "asdfg",
+      "author": "wqew",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
